@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5m2mqeexm6a8"
-path="res://.godot/imported/yay main map [unfinished].png-d54ef43db97aced40930021af57529f3.ctex"
+path="res://.godot/imported/yay main map [unfinished].png-b960b570ec286d7f4eea42379d4c70fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://yay main map [unfinished].png"
-dest_files=["res://.godot/imported/yay main map [unfinished].png-d54ef43db97aced40930021af57529f3.ctex"]
+source_file="res://assets/yay main map [unfinished].png"
+dest_files=["res://.godot/imported/yay main map [unfinished].png-b960b570ec286d7f4eea42379d4c70fc.ctex"]
 
 [params]
 

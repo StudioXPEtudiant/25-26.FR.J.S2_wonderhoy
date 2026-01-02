@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxe6efho7g0fg"
-path="res://.godot/imported/gojo.png-9dc52f0f338c7bf3a8328943c6f85a08.ctex"
+path="res://.godot/imported/gojo.png-2cecbc5993d9c303d990aa3b1a183236.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://gojo.png"
-dest_files=["res://.godot/imported/gojo.png-9dc52f0f338c7bf3a8328943c6f85a08.ctex"]
+source_file="res://assets/gojo.png"
+dest_files=["res://.godot/imported/gojo.png-2cecbc5993d9c303d990aa3b1a183236.ctex"]
 
 [params]
 
