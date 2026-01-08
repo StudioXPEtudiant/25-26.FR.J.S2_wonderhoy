@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://dw3ho0u6mqln6"]
+
+[ext_resource type="Texture2D" uid="uid://de2mef13s4cqw" path="res://assets/image astétic.jpg" id="1_a4sp0"]
+
+[node name="ImageAstétic" type="Sprite2D"]
+position = Vector2(564.5, 561.5)
+scale = Vector2(1.59918, 0.83104)
+texture = ExtResource("1_a4sp0")
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_left = -76.6015
+offset_top = -444.624
+offset_right = 91.3985
+offset_bottom = -401.624
+text = "mirror horros 🥰👏"
+placeholder_text = "le foutu wonderhoy"
+structured_text_bidi_override_options = [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
