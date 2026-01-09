@@ -1,3 +1,15 @@
-[gd_scene format=3 uid="uid://bwna5crsjwooy"]
+[gd_scene load_steps=3 format=3 uid="uid://bwna5crsjwooy"]
+
+[ext_resource type="Texture2D" uid="uid://b5m2mqeexm6a8" path="res://assets/yay main map [unfinished].png" id="1_7pck3"]
+[ext_resource type="PackedScene" uid="uid://5v7s6im7j520" path="res://main_character.tscn" id="2_7q1yf"]
 
 [node name="Node2D" type="Node2D"]
+position = Vector2(2, 2)
+
+[node name="YayMainMap[unfinished]" type="Sprite2D" parent="."]
+position = Vector2(573.75, 322)
+scale = Vector2(5.99219, 5.19355)
+texture = ExtResource("1_7pck3")
+
+[node name="you" parent="." instance=ExtResource("2_7q1yf")]
+position = Vector2(275, 413)
