@@ -1,17 +1,27 @@
-[gd_scene load_steps=3 format=3 uid="uid://b8y3g1ow4lxt4"]
+[gd_scene load_steps=4 format=3 uid="uid://b8y3g1ow4lxt4"]
 
 [ext_resource type="Texture2D" uid="uid://bxe6efho7g0fg" path="res://assets/gojo.png" id="1_jnda4"]
 
-[sub_resource type="CircleShape2D" id="CircleShape2D_5amp5"]
-radius = 65.0077
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_8rxmh"]
+radius = 40.0
+height = 132.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_kamsn"]
+radius = 201.42
 
 [node name="skinwalker" type="CharacterBody2D"]
+position = Vector2(115, 81)
 
 [node name="Gojo" type="Sprite2D" parent="."]
-position = Vector2(313, 277.5)
+position = Vector2(-0.999939, 3.05176e-05)
 scale = Vector2(1.3125, 1.36719)
 texture = ExtResource("1_jnda4")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(288, 294)
-shape = SubResource("CircleShape2D_5amp5")
+position = Vector2(-24, 9)
+scale = Vector2(1, 1)
+shape = SubResource("CapsuleShape2D_8rxmh")
+
+[node name="agro" type="CollisionShape2D" parent="."]
+position = Vector2(-23, 9)
+shape = SubResource("CircleShape2D_kamsn")
