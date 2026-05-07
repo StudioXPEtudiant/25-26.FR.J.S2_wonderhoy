@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://rxinugmwnggd"
-path="res://.godot/imported/pp de facev gauche.png-22486858360967ef3b4bb46851bf1dc2.ctex"
+uid="uid://bxe6efho7g0fg"
+path="res://.godot/imported/gojo.png-1d48c7b1112e2e9f6b90e6afefcc02f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/pp de facev gauche.png"
-dest_files=["res://.godot/imported/pp de facev gauche.png-22486858360967ef3b4bb46851bf1dc2.ctex"]
+source_file="res://assets/le MONSTRE. images/gojo.png"
+dest_files=["res://.godot/imported/gojo.png-1d48c7b1112e2e9f6b90e6afefcc02f5.ctex"]
 
 [params]
 

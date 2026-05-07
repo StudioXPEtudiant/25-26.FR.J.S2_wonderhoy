@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cjb464u4qdi2x"
-path="res://.godot/imported/haut dessous de la première salle .png-579d0e792ead24e426f00bccb60b1905.ctex"
+uid="uid://g6h7qfgpqils"
+path="res://.godot/imported/knife.png-50d31e4507dc19ae2319e330c3ca00c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/haut dessous de la première salle .png"
-dest_files=["res://.godot/imported/haut dessous de la première salle .png-579d0e792ead24e426f00bccb60b1905.ctex"]
+source_file="res://assets/items/knife.png"
+dest_files=["res://.godot/imported/knife.png-50d31e4507dc19ae2319e330c3ca00c9.ctex"]
 
 [params]
 

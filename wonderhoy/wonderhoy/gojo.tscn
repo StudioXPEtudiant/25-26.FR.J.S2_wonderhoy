@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://b8y3g1ow4lxt4"]
 
-[ext_resource type="Texture2D" uid="uid://bxe6efho7g0fg" path="res://assets/gojo.png" id="1_jnda4"]
+[ext_resource type="Texture2D" uid="uid://bxe6efho7g0fg" path="res://assets/le MONSTRE. images/gojo.png" id="1_jnda4"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_8rxmh"]
 radius = 40.0
