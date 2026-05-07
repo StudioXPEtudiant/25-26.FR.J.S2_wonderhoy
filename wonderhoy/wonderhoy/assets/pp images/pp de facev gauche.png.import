@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dn8b6kgpmouwf"
-path="res://.godot/imported/new monster a droite.png-907568f7e7b4a877fe6b9f46257e604e.ctex"
+uid="uid://rxinugmwnggd"
+path="res://.godot/imported/pp de facev gauche.png-5e462cd9325419018cc899994f295f5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/new monster a droite.png"
-dest_files=["res://.godot/imported/new monster a droite.png-907568f7e7b4a877fe6b9f46257e604e.ctex"]
+source_file="res://assets/pp images/pp de facev gauche.png"
+dest_files=["res://.godot/imported/pp de facev gauche.png-5e462cd9325419018cc899994f295f5b.ctex"]
 
 [params]
 

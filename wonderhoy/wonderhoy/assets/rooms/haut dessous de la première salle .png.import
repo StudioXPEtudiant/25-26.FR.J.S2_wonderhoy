@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b3tylfpyjbn14"
-path="res://.godot/imported/salle avec la clé.png-bc862668cd43a62001a0b152609f4b38.ctex"
+uid="uid://cjb464u4qdi2x"
+path="res://.godot/imported/haut dessous de la première salle .png-e99ecbde7a6c82116945923be1aba853.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/salle avec la clé.png"
-dest_files=["res://.godot/imported/salle avec la clé.png-bc862668cd43a62001a0b152609f4b38.ctex"]
+source_file="res://assets/rooms/haut dessous de la première salle .png"
+dest_files=["res://.godot/imported/haut dessous de la première salle .png-e99ecbde7a6c82116945923be1aba853.ctex"]
 
 [params]
 

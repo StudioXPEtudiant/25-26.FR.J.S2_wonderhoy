@@ -1,12 +1,14 @@
 [gd_scene load_steps=2 format=3 uid="uid://dlydho8iv2wqp"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_k0d7e"]
-size = Vector2(16, 2449)
+size = Vector2(16, 654)
 
 [node name="invisible wall" type="Node2D"]
 
 [node name="il marche pas" type="CharacterBody2D" parent="."]
+disable_mode = 1
+collision_mask = 0
 
 [node name="coucou je t\'ais ragebait =3" type="CollisionShape2D" parent="il marche pas"]
-position = Vector2(-42, 1214.5)
+position = Vector2(-8, 325)
 shape = SubResource("RectangleShape2D_k0d7e")

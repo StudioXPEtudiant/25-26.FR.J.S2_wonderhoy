@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0j0oilkys75u"
-path="res://.godot/imported/pp de face a gquche qui court annimation 2.png-d52f2ce1e95e0224982bf42b7199b0ee.ctex"
+uid="uid://cv1lurrnhiwep"
+path="res://.godot/imported/chambre 2.png-e36ebf609bf39dc762f96e459fb7294a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/pp de face a gquche qui court annimation 2.png"
-dest_files=["res://.godot/imported/pp de face a gquche qui court annimation 2.png-d52f2ce1e95e0224982bf42b7199b0ee.ctex"]
+source_file="res://assets/rooms/chambre 2.png"
+dest_files=["res://.godot/imported/chambre 2.png-e36ebf609bf39dc762f96e459fb7294a.ctex"]
 
 [params]
 

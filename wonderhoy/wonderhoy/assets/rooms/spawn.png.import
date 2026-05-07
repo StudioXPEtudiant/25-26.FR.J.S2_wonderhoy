@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bqqr312rpj6p2"
-path="res://.godot/imported/new monster qui marche a droite.png-b37a4f49474e8cfbf64a436f8371611d.ctex"
+uid="uid://bibk0yhqcplns"
+path="res://.godot/imported/spawn.png-4a49452e1253af7b770c0ba576604499.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/new monster qui marche a droite.png"
-dest_files=["res://.godot/imported/new monster qui marche a droite.png-b37a4f49474e8cfbf64a436f8371611d.ctex"]
+source_file="res://assets/rooms/spawn.png"
+dest_files=["res://.godot/imported/spawn.png-4a49452e1253af7b770c0ba576604499.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cv1lurrnhiwep"
-path="res://.godot/imported/chambre 2.png-dc37e1945d201aba3c3384a34e0dccd8.ctex"
+uid="uid://cflthtnry4hoj"
+path="res://.godot/imported/new monster.png-7145f20d8b4739529c4c84e2909db129.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/chambre 2.png"
-dest_files=["res://.godot/imported/chambre 2.png-dc37e1945d201aba3c3384a34e0dccd8.ctex"]
+source_file="res://assets/le MONSTRE. images/new monster.png"
+dest_files=["res://.godot/imported/new monster.png-7145f20d8b4739529c4c84e2909db129.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bcu6krcghaw6y"
-path="res://.godot/imported/New Piskel (63).png-aad90b3350433912161e699571263bf1.ctex"
+uid="uid://b3tylfpyjbn14"
+path="res://.godot/imported/salle avec la clé.png-f14d1540ba5c60384517fc481cabd241.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/New Piskel (63).png"
-dest_files=["res://.godot/imported/New Piskel (63).png-aad90b3350433912161e699571263bf1.ctex"]
+source_file="res://assets/rooms/salle avec la clé.png"
+dest_files=["res://.godot/imported/salle avec la clé.png-f14d1540ba5c60384517fc481cabd241.ctex"]
 
 [params]
 
